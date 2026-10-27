@@ -1,0 +1,977 @@
+{
+    "type": "FeatureCollection",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "EPSG:4326"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "id": 1,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.4548017,
+                    0.4983102
+                ]
+            },
+            "properties": {
+                "OBJECTID": 1,
+                "No_": 1,
+                "Nama_Pemetaan": "RS SYAFIRA",
+                "Jenis_Fasilitas": "Rumah Sakit",
+                "Kapasitas_Pelayanan": "Sedang",
+                "Jam_Operasional": "24 Jam",
+                "Kelengkapan_Layanan": "Sedang",
+                "Jarak_Jalan_Utama_m": 30,
+                "Y": 0.4983102,
+                "X": 101.4548017
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 2,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.4563027,
+                    0.49654557
+                ]
+            },
+            "properties": {
+                "OBJECTID": 2,
+                "No_": 2,
+                "Nama_Pemetaan": "RS AWAL BROS SUDIRMAN",
+                "Jenis_Fasilitas": "Rumah Sakit",
+                "Kapasitas_Pelayanan": "Tinggi",
+                "Jam_Operasional": "24 Jam",
+                "Kelengkapan_Layanan": "Lengkap",
+                "Jarak_Jalan_Utama_m": 95,
+                "Y": 0.49654557,
+                "X": 101.4563027
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 3,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.4567869,
+                    0.529028305
+                ]
+            },
+            "properties": {
+                "OBJECTID": 3,
+                "No_": 3,
+                "Nama_Pemetaan": "RS Petala Bumi",
+                "Jenis_Fasilitas": "Rumah Sakit",
+                "Kapasitas_Pelayanan": "Tinggi",
+                "Jam_Operasional": "24 Jam",
+                "Kelengkapan_Layanan": "Lengkap",
+                "Jarak_Jalan_Utama_m": 655,
+                "Y": 0.529028305,
+                "X": 101.4567869
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 4,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.4495908,
+                    0.560929561
+                ]
+            },
+            "properties": {
+                "OBJECTID": 4,
+                "No_": 4,
+                "Nama_Pemetaan": "Klinik Mutiara Hati",
+                "Jenis_Fasilitas": "Klinik",
+                "Kapasitas_Pelayanan": "Rendah",
+                "Jam_Operasional": "Terbatas",
+                "Kelengkapan_Layanan": "Dasar",
+                "Jarak_Jalan_Utama_m": 15,
+                "Y": 0.560929561,
+                "X": 101.4495908
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 5,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.4405485,
+                    0.561334338
+                ]
+            },
+            "properties": {
+                "OBJECTID": 5,
+                "No_": 5,
+                "Nama_Pemetaan": "Klinik Pratama Tiga Permata",
+                "Jenis_Fasilitas": "Klinik",
+                "Kapasitas_Pelayanan": "Sedang",
+                "Jam_Operasional": "Normal",
+                "Kelengkapan_Layanan": "Sedang",
+                "Jarak_Jalan_Utama_m": 105,
+                "Y": 0.561334338,
+                "X": 101.4405485
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 6,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.4483479,
+                    0.566078724
+                ]
+            },
+            "properties": {
+                "OBJECTID": 6,
+                "No_": 6,
+                "Nama_Pemetaan": "Apotek Farza",
+                "Jenis_Fasilitas": "",
+                "Kapasitas_Pelayanan": "",
+                "Jam_Operasional": "",
+                "Kelengkapan_Layanan": "",
+                "Jarak_Jalan_Utama_m": null,
+                "Y": 0.566078724,
+                "X": 101.4483479
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 7,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.4432715,
+                    0.56919307
+                ]
+            },
+            "properties": {
+                "OBJECTID": 7,
+                "No_": 7,
+                "Nama_Pemetaan": "Klinik BMC",
+                "Jenis_Fasilitas": "Klinik",
+                "Kapasitas_Pelayanan": "Sedang",
+                "Jam_Operasional": "Normal",
+                "Kelengkapan_Layanan": "Sedang",
+                "Jarak_Jalan_Utama_m": 20,
+                "Y": 0.56919307,
+                "X": 101.4432715
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 8,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.4481689,
+                    0.56811958
+                ]
+            },
+            "properties": {
+                "OBJECTID": 8,
+                "No_": 8,
+                "Nama_Pemetaan": "Provet Clinic Hewan",
+                "Jenis_Fasilitas": "Klinik",
+                "Kapasitas_Pelayanan": "Rendah",
+                "Jam_Operasional": "Normal",
+                "Kelengkapan_Layanan": "Dasar",
+                "Jarak_Jalan_Utama_m": 5,
+                "Y": 0.56811958,
+                "X": 101.4481689
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 9,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.4490989,
+                    0.564590447
+                ]
+            },
+            "properties": {
+                "OBJECTID": 9,
+                "No_": 9,
+                "Nama_Pemetaan": "Klknik dr. Misbah",
+                "Jenis_Fasilitas": "Klinik",
+                "Kapasitas_Pelayanan": "Rendah",
+                "Jam_Operasional": "Terbatas",
+                "Kelengkapan_Layanan": "Dasar",
+                "Jarak_Jalan_Utama_m": 10,
+                "Y": 0.564590447,
+                "X": 101.4490989
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 10,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.4485735,
+                    0.566668396
+                ]
+            },
+            "properties": {
+                "OBJECTID": 10,
+                "No_": 10,
+                "Nama_Pemetaan": "Apotek Keluarga Rumbai",
+                "Jenis_Fasilitas": "Apotek",
+                "Kapasitas_Pelayanan": "Sedang",
+                "Jam_Operasional": "Normal",
+                "Kelengkapan_Layanan": "Sedang",
+                "Jarak_Jalan_Utama_m": 5,
+                "Y": 0.566668396,
+                "X": 101.4485735
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 11,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.4476384,
+                    0.569951606
+                ]
+            },
+            "properties": {
+                "OBJECTID": 11,
+                "No_": 11,
+                "Nama_Pemetaan": "Celi Care",
+                "Jenis_Fasilitas": "Klinik",
+                "Kapasitas_Pelayanan": "Rendah",
+                "Jam_Operasional": "Normal",
+                "Kelengkapan_Layanan": "Dasar",
+                "Jarak_Jalan_Utama_m": 5,
+                "Y": 0.569951606,
+                "X": 101.4476384
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 12,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.4422626,
+                    0.524153302
+                ]
+            },
+            "properties": {
+                "OBJECTID": 12,
+                "No_": 12,
+                "Nama_Pemetaan": "APOTEK ASEAN 2",
+                "Jenis_Fasilitas": "Apotek",
+                "Kapasitas_Pelayanan": "Rendah",
+                "Jam_Operasional": "Normal",
+                "Kelengkapan_Layanan": "Dasar",
+                "Jarak_Jalan_Utama_m": 20,
+                "Y": 0.524153302,
+                "X": 101.4422626
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 13,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.4424718,
+                    0.527319172
+                ]
+            },
+            "properties": {
+                "OBJECTID": 13,
+                "No_": 13,
+                "Nama_Pemetaan": "RS SANTA MARIA",
+                "Jenis_Fasilitas": "Rumah Sakit",
+                "Kapasitas_Pelayanan": "Tinggi",
+                "Jam_Operasional": "24 Jam",
+                "Kelengkapan_Layanan": "Lengkap",
+                "Jarak_Jalan_Utama_m": 5,
+                "Y": 0.527319172,
+                "X": 101.4424718
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 14,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.4467144,
+                    0.560453422
+                ]
+            },
+            "properties": {
+                "OBJECTID": 14,
+                "No_": 14,
+                "Nama_Pemetaan": "Klinik Pratama",
+                "Jenis_Fasilitas": "Klinik",
+                "Kapasitas_Pelayanan": "Sedang",
+                "Jam_Operasional": "Normal",
+                "Kelengkapan_Layanan": "Sedang",
+                "Jarak_Jalan_Utama_m": 5,
+                "Y": 0.560453422,
+                "X": 101.4467144
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 15,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.4410494,
+                    0.536532255
+                ]
+            },
+            "properties": {
+                "OBJECTID": 15,
+                "No_": 15,
+                "Nama_Pemetaan": "RS TENTARA",
+                "Jenis_Fasilitas": "Rumah Sakit",
+                "Kapasitas_Pelayanan": "Tinggi",
+                "Jam_Operasional": "24 Jam",
+                "Kelengkapan_Layanan": "Lengkap",
+                "Jarak_Jalan_Utama_m": 30,
+                "Y": 0.536532255,
+                "X": 101.4410494
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 16,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.4409494,
+                    0.560483221
+                ]
+            },
+            "properties": {
+                "OBJECTID": 16,
+                "No_": 16,
+                "Nama_Pemetaan": "Puskesmas Rumbai",
+                "Jenis_Fasilitas": "Puskesmas",
+                "Kapasitas_Pelayanan": "Sedang",
+                "Jam_Operasional": "Terbatas",
+                "Kelengkapan_Layanan": "Sedang",
+                "Jarak_Jalan_Utama_m": 10,
+                "Y": 0.560483221,
+                "X": 101.4409494
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 17,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.4442322,
+                    0.560496453
+                ]
+            },
+            "properties": {
+                "OBJECTID": 17,
+                "No_": 17,
+                "Nama_Pemetaan": "Klinik Green Pharma",
+                "Jenis_Fasilitas": "Klinik",
+                "Kapasitas_Pelayanan": "Rendah",
+                "Jam_Operasional": "Normal",
+                "Kelengkapan_Layanan": "Dasar",
+                "Jarak_Jalan_Utama_m": 5,
+                "Y": 0.560496453,
+                "X": 101.4442322
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 18,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.4420236,
+                    0.524527431
+                ]
+            },
+            "properties": {
+                "OBJECTID": 18,
+                "No_": 18,
+                "Nama_Pemetaan": "Apotek Jakarta",
+                "Jenis_Fasilitas": "Apotek",
+                "Kapasitas_Pelayanan": "Rendah",
+                "Jam_Operasional": "Normal",
+                "Kelengkapan_Layanan": "Dasar",
+                "Jarak_Jalan_Utama_m": 5,
+                "Y": 0.524527431,
+                "X": 101.4420236
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 19,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.4422637,
+                    0.560523336
+                ]
+            },
+            "properties": {
+                "OBJECTID": 19,
+                "No_": 19,
+                "Nama_Pemetaan": "Apotek Piramida",
+                "Jenis_Fasilitas": "Apotek",
+                "Kapasitas_Pelayanan": "Rendah",
+                "Jam_Operasional": "Normal",
+                "Kelengkapan_Layanan": "Dasar",
+                "Jarak_Jalan_Utama_m": 5,
+                "Y": 0.560523336,
+                "X": 101.4422637
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 20,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.4446961,
+                    0.560580153
+                ]
+            },
+            "properties": {
+                "OBJECTID": 20,
+                "No_": 20,
+                "Nama_Pemetaan": "Klinik Hewan Pekanbaru (KHP)",
+                "Jenis_Fasilitas": "Klinik",
+                "Kapasitas_Pelayanan": "Rendah",
+                "Jam_Operasional": "Normal",
+                "Kelengkapan_Layanan": "Dasar",
+                "Jarak_Jalan_Utama_m": 5,
+                "Y": 0.560580153,
+                "X": 101.4446961
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 21,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.4547417,
+                    0.513782317
+                ]
+            },
+            "properties": {
+                "OBJECTID": 21,
+                "No_": 21,
+                "Nama_Pemetaan": "RS Zainab",
+                "Jenis_Fasilitas": "Rumah Sakit",
+                "Kapasitas_Pelayanan": "Sedang",
+                "Jam_Operasional": "24 Jam",
+                "Kelengkapan_Layanan": "Sedang",
+                "Jarak_Jalan_Utama_m": 45,
+                "Y": 0.513782317,
+                "X": 101.4547417
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 22,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.4488669,
+                    0.52052565
+                ]
+            },
+            "properties": {
+                "OBJECTID": 22,
+                "No_": 22,
+                "Nama_Pemetaan": "RS Bhayangkara",
+                "Jenis_Fasilitas": "Rumah Sakit",
+                "Kapasitas_Pelayanan": "Tinggi",
+                "Jam_Operasional": "24 Jam",
+                "Kelengkapan_Layanan": "Lengkap",
+                "Jarak_Jalan_Utama_m": 20,
+                "Y": 0.52052565,
+                "X": 101.4488669
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 23,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.444013,
+                    0.521121488
+                ]
+            },
+            "properties": {
+                "OBJECTID": 23,
+                "No_": 23,
+                "Nama_Pemetaan": "RS AWAL BROS",
+                "Jenis_Fasilitas": "Rumah Sakit",
+                "Kapasitas_Pelayanan": "Tinggi",
+                "Jam_Operasional": "24 Jam",
+                "Kelengkapan_Layanan": "Lengkap",
+                "Jarak_Jalan_Utama_m": 105,
+                "Y": 0.521121488,
+                "X": 101.444013
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 24,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.4518305,
+                    0.521399476
+                ]
+            },
+            "properties": {
+                "OBJECTID": 24,
+                "No_": 24,
+                "Nama_Pemetaan": "RSUD Arifin Ahmad",
+                "Jenis_Fasilitas": "Rumah Sakit",
+                "Kapasitas_Pelayanan": "Tinggi",
+                "Jam_Operasional": "24 Jam",
+                "Kelengkapan_Layanan": "Lengkap",
+                "Jarak_Jalan_Utama_m": 70,
+                "Y": 0.521399476,
+                "X": 101.4518305
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 25,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.4421545,
+                    0.523412822
+                ]
+            },
+            "properties": {
+                "OBJECTID": 25,
+                "No_": 25,
+                "Nama_Pemetaan": "APOTEK ASEAN",
+                "Jenis_Fasilitas": "Apotek",
+                "Kapasitas_Pelayanan": "Rendah",
+                "Jam_Operasional": "Normal",
+                "Kelengkapan_Layanan": "Dasar",
+                "Jarak_Jalan_Utama_m": 10,
+                "Y": 0.523412822,
+                "X": 101.4421545
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 26,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.4262151,
+                    0.569025909
+                ]
+            },
+            "properties": {
+                "OBJECTID": 26,
+                "No_": 26,
+                "Nama_Pemetaan": "Praktek Dokter Gigi Fitri",
+                "Jenis_Fasilitas": "Praktik Dokter",
+                "Kapasitas_Pelayanan": "Rendah",
+                "Jam_Operasional": "Terbatas",
+                "Kelengkapan_Layanan": "Dasar",
+                "Jarak_Jalan_Utama_m": 5,
+                "Y": 0.569025909,
+                "X": 101.4262151
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 27,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.4280854,
+                    0.569129535
+                ]
+            },
+            "properties": {
+                "OBJECTID": 27,
+                "No_": 27,
+                "Nama_Pemetaan": "Inhale Dental Care",
+                "Jenis_Fasilitas": "Klinik",
+                "Kapasitas_Pelayanan": "Rendah",
+                "Jam_Operasional": "Terbatas",
+                "Kelengkapan_Layanan": "Dasar",
+                "Jarak_Jalan_Utama_m": 5,
+                "Y": 0.569129535,
+                "X": 101.4280854
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 28,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.4280854,
+                    0.569129535
+                ]
+            },
+            "properties": {
+                "OBJECTID": 28,
+                "No_": 28,
+                "Nama_Pemetaan": "Apotek Mekar Farma",
+                "Jenis_Fasilitas": "Apotek",
+                "Kapasitas_Pelayanan": "Rendah",
+                "Jam_Operasional": "Normal",
+                "Kelengkapan_Layanan": "Dasar",
+                "Jarak_Jalan_Utama_m": 5,
+                "Y": 0.569129535,
+                "X": 101.4280854
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 29,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.426244,
+                    0.569056679
+                ]
+            },
+            "properties": {
+                "OBJECTID": 29,
+                "No_": 29,
+                "Nama_Pemetaan": "Apotek Keluarga 25",
+                "Jenis_Fasilitas": "Apotek",
+                "Kapasitas_Pelayanan": "Sedang",
+                "Jam_Operasional": "Normal",
+                "Kelengkapan_Layanan": "Sedang",
+                "Jarak_Jalan_Utama_m": 5,
+                "Y": 0.569056679,
+                "X": 101.426244
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 30,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.4234483,
+                    0.569151704
+                ]
+            },
+            "properties": {
+                "OBJECTID": 30,
+                "No_": 30,
+                "Nama_Pemetaan": "Unilak Medical Centre",
+                "Jenis_Fasilitas": "Klinik",
+                "Kapasitas_Pelayanan": "Rendah",
+                "Jam_Operasional": "Terbatas",
+                "Kelengkapan_Layanan": "Dasar",
+                "Jarak_Jalan_Utama_m": 15,
+                "Y": 0.569151704,
+                "X": 101.4234483
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 31,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.4244819,
+                    0.569341247
+                ]
+            },
+            "properties": {
+                "OBJECTID": 31,
+                "No_": 31,
+                "Nama_Pemetaan": "Apotek Mekar Sari",
+                "Jenis_Fasilitas": "Apotek",
+                "Kapasitas_Pelayanan": "Rendah",
+                "Jam_Operasional": "Normal",
+                "Kelengkapan_Layanan": "Dasar",
+                "Jarak_Jalan_Utama_m": 35,
+                "Y": 0.569341247,
+                "X": 101.4244819
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 32,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.4220955,
+                    0.569817706
+                ]
+            },
+            "properties": {
+                "OBJECTID": 32,
+                "No_": 32,
+                "Nama_Pemetaan": "Klinik Abdul Hadi",
+                "Jenis_Fasilitas": "Klinik",
+                "Kapasitas_Pelayanan": "Rendah",
+                "Jam_Operasional": "Terbatas",
+                "Kelengkapan_Layanan": "Dasar",
+                "Jarak_Jalan_Utama_m": 15,
+                "Y": 0.569817706,
+                "X": 101.4220955
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 33,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.4347437,
+                    0.55950273
+                ]
+            },
+            "properties": {
+                "OBJECTID": 33,
+                "No_": 33,
+                "Nama_Pemetaan": "Apotek Agam",
+                "Jenis_Fasilitas": "Apotek",
+                "Kapasitas_Pelayanan": "Rendah",
+                "Jam_Operasional": "Normal",
+                "Kelengkapan_Layanan": "Dasar",
+                "Jarak_Jalan_Utama_m": 10,
+                "Y": 0.55950273,
+                "X": 101.4347437
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 34,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.4354958,
+                    0.559561838
+                ]
+            },
+            "properties": {
+                "OBJECTID": 34,
+                "No_": 34,
+                "Nama_Pemetaan": "Apotek Farmasia 2",
+                "Jenis_Fasilitas": "Apotek",
+                "Kapasitas_Pelayanan": "Rendah",
+                "Jam_Operasional": "Normal",
+                "Kelengkapan_Layanan": "Dasar",
+                "Jarak_Jalan_Utama_m": 0,
+                "Y": 0.559561838,
+                "X": 101.4354958
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 35,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.4377318,
+                    0.560213546
+                ]
+            },
+            "properties": {
+                "OBJECTID": 35,
+                "No_": 35,
+                "Nama_Pemetaan": "RS Hermina",
+                "Jenis_Fasilitas": "Rumah Sakit",
+                "Kapasitas_Pelayanan": "Tinggi",
+                "Jam_Operasional": "24 Jam",
+                "Kelengkapan_Layanan": "Lengkap",
+                "Jarak_Jalan_Utama_m": 20,
+                "Y": 0.560213546,
+                "X": 101.4377318
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 36,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.4388598,
+                    0.560256811
+                ]
+            },
+            "properties": {
+                "OBJECTID": 36,
+                "No_": 36,
+                "Nama_Pemetaan": "Apotek Bersama",
+                "Jenis_Fasilitas": "Apotek",
+                "Kapasitas_Pelayanan": "Rendah",
+                "Jam_Operasional": "Normal",
+                "Kelengkapan_Layanan": "Dasar",
+                "Jarak_Jalan_Utama_m": 5,
+                "Y": 0.560256811,
+                "X": 101.4388598
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 37,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.385222,
+                    0.463488181
+                ]
+            },
+            "properties": {
+                "OBJECTID": 37,
+                "No_": 37,
+                "Nama_Pemetaan": "AULIA HOSPITAL",
+                "Jenis_Fasilitas": "Rumah Sakit",
+                "Kapasitas_Pelayanan": "Sedang",
+                "Jam_Operasional": "24 Jam",
+                "Kelengkapan_Layanan": "Sedang",
+                "Jarak_Jalan_Utama_m": 75,
+                "Y": 0.463488181,
+                "X": 101.385222
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 38,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.3833776,
+                    0.46348463
+                ]
+            },
+            "properties": {
+                "OBJECTID": 38,
+                "No_": 38,
+                "Nama_Pemetaan": "Apotek Zhafira",
+                "Jenis_Fasilitas": "Apotek",
+                "Kapasitas_Pelayanan": "Rendah",
+                "Jam_Operasional": "Normal",
+                "Kelengkapan_Layanan": "Dasar",
+                "Jarak_Jalan_Utama_m": 75,
+                "Y": 0.46348463,
+                "X": 101.3833776
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 39,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.3821147,
+                    0.465462201
+                ]
+            },
+            "properties": {
+                "OBJECTID": 39,
+                "No_": 39,
+                "Nama_Pemetaan": "Rumah Sakit Jiwa Tampan",
+                "Jenis_Fasilitas": "Rumah Sakit",
+                "Kapasitas_Pelayanan": "Sedang",
+                "Jam_Operasional": "24 Jam",
+                "Kelengkapan_Layanan": "Sedang",
+                "Jarak_Jalan_Utama_m": 130,
+                "Y": 0.465462201,
+                "X": 101.3821147
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 40,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.4016824,
+                    0.464444573
+                ]
+            },
+            "properties": {
+                "OBJECTID": 40,
+                "No_": 40,
+                "Nama_Pemetaan": "Apotek Kimia Farma 393 Panam",
+                "Jenis_Fasilitas": "Apotek",
+                "Kapasitas_Pelayanan": "Sedang",
+                "Jam_Operasional": "Normal",
+                "Kelengkapan_Layanan": "Sedang",
+                "Jarak_Jalan_Utama_m": 40,
+                "Y": 0.464444573,
+                "X": 101.4016824
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 41,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.3873727,
+                    0.464642057
+                ]
+            },
+            "properties": {
+                "OBJECTID": 41,
+                "No_": 41,
+                "Nama_Pemetaan": "Klinik Pratama Mercy",
+                "Jenis_Fasilitas": "Klinik",
+                "Kapasitas_Pelayanan": "Sedang",
+                "Jam_Operasional": "Normal",
+                "Kelengkapan_Layanan": "Sedang",
+                "Jarak_Jalan_Utama_m": 50,
+                "Y": 0.464642057,
+                "X": 101.3873727
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 42,
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    101.3806021,
+                    0.469267442
+                ]
+            },
+            "properties": {
+                "OBJECTID": 42,
+                "No_": 42,
+                "Nama_Pemetaan": "RS Universitas Riau",
+                "Jenis_Fasilitas": "Rumah Sakit",
+                "Kapasitas_Pelayanan": "Sedang",
+                "Jam_Operasional": "24 Jam",
+                "Kelengkapan_Layanan": "Sedang",
+                "Jarak_Jalan_Utama_m": 50,
+                "Y": 0.469267442,
+                "X": 101.3806021
+            }
+        }
+    ]
+}
